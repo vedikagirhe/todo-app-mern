@@ -117,3 +117,5 @@ If you change `VITE_API_URL` in Vercel, redeploy the frontend.
 - MongoDB connection error: check `MONGODB_URI`, Atlas database user/password and Network Access.
 - CORS error: set Render `CLIENT_URL` to the exact frontend URL and redeploy.
 - Port conflict: change `PORT` only if needed; Render supplies it automatically.
+## Practical 10
+Git and GitHub integration for the MERN To-Do App.
